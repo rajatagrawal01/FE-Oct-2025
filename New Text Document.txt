@@ -1,7 +1,10 @@
-Classes
-    Bhawarkua
-        1230new html (../)
-        html(./)
-            assets
-                 download.jpg
-            media.html
+address
+gender
+age
+date of birth
+document/file
+photo
+selection
+checkbox
+captcha
+button
