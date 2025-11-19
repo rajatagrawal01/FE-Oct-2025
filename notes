@@ -1,0 +1,25 @@
+Style declaration
+element/s selection
+style property
+property value
+
+
+
+In first.css
+        #idname{
+            property:value
+        }
+    
+In body
+        <element id="idname"></element>
+
+
+Dev's Proirity
+element>class>id
+
+Browser's Proirity
+id>class>element
+
+
+
+

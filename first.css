@@ -1,0 +1,21 @@
+/* *{
+    color: red;
+    font-size: 50px;
+} */
+
+
+h1{
+    color: red;
+}
+
+.one{
+    color: red;
+}
+
+.two{
+    color: green;
+}
+
+#three{
+    color: yellow;
+}
