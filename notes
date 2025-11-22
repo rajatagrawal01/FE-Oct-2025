@@ -23,3 +23,9 @@ id>class>element
 
 
 
+/* 1-color name
+2-rgb(red,green,blue) - 0-255
+3-rgba(red,green,blue,alpha-0-1) 
+4-hsl(Hue, saturation,lighting)
+5-3digit hex - #rgb - 0-f - 16*16*16 -4K
+6-6digit hex - #rrggbb */
