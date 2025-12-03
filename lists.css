@@ -30,6 +30,13 @@ ol li::marker{
   content: "📍";
 }
 
+ol li::marker:hover{
+  font-size: 20px;
+  color: blue;
+  font-weight: bolder;
+  content: "🌍";
+}
+
 /* 
 ul li {
   background: #cce5ff;
