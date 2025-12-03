@@ -48,3 +48,8 @@
     border-top-right-radius: 300px; */
     /* border-top-right-radius: 500px; */
 }
+
+.box:hover{
+    background-color: yellow;
+
+}
