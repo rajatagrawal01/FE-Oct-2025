@@ -1,0 +1,57 @@
+/* body{
+    background-color: blue;
+} */
+/* 
+--var_name:value;
+
+property:var(--var_name) */
+
+
+
+:root{
+    --customColor:green;
+    --customColor2:yellow;
+    --spacing:10px;
+}
+*{
+    /* margin: calc(var(--spacing)*10); */
+    margin: var(--spacing);
+    /* width: var(--spacing); */
+}
+
+h1{
+    color: var(--customColor);
+    background-color: var(--customColor2);
+}
+
+
+/* ul li{
+    background-color: yellow;
+} */
+
+
+/* li:last-child{
+    background-color: yellow;
+} */
+
+ul li:nth-child(odd){
+    background-color: yellow;
+}
+
+
+/* ul #first{
+    background-color: var(--customColor2);
+}
+div:last-child{
+    background-color: green;
+}
+ */
+
+/* @media screen and (max-width:400px) {
+    body {
+        background-color: yellow;
+    }
+    h1{
+        color: blue;
+    }
+} */
